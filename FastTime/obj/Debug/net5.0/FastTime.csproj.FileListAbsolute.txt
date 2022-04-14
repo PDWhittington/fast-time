@@ -1,0 +1,5 @@
+D:\workspace\fast-time\FastTime\obj\Debug\net5.0\FastTime.csproj.AssemblyReference.cache
+D:\workspace\fast-time\FastTime\obj\Debug\net5.0\FastTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\fast-time\FastTime\obj\Debug\net5.0\FastTime.AssemblyInfoInputs.cache
+D:\workspace\fast-time\FastTime\obj\Debug\net5.0\FastTime.AssemblyInfo.cs
+D:\workspace\fast-time\FastTime\obj\Debug\net5.0\FastTime.csproj.CoreCompileInputs.cache

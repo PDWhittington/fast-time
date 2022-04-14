@@ -1,0 +1,10 @@
+D:\workspace\fast-time\FastTime\bin\Debug\netstandard2.1\FastTime.deps.json
+D:\workspace\fast-time\FastTime\bin\Debug\netstandard2.1\FastTime.dll
+D:\workspace\fast-time\FastTime\bin\Debug\netstandard2.1\FastTime.pdb
+D:\workspace\fast-time\FastTime\obj\Debug\netstandard2.1\FastTime.csproj.AssemblyReference.cache
+D:\workspace\fast-time\FastTime\obj\Debug\netstandard2.1\FastTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\fast-time\FastTime\obj\Debug\netstandard2.1\FastTime.AssemblyInfoInputs.cache
+D:\workspace\fast-time\FastTime\obj\Debug\netstandard2.1\FastTime.AssemblyInfo.cs
+D:\workspace\fast-time\FastTime\obj\Debug\netstandard2.1\FastTime.csproj.CoreCompileInputs.cache
+D:\workspace\fast-time\FastTime\obj\Debug\netstandard2.1\FastTime.dll
+D:\workspace\fast-time\FastTime\obj\Debug\netstandard2.1\FastTime.pdb
