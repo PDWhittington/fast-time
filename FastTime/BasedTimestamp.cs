@@ -4,6 +4,7 @@ namespace FastTime;
 
 [SuppressMessage("ReSharper", "NotAccessedField.Global")]
 [SuppressMessage("ReSharper", "UnusedMember.Global")]
+[SuppressMessage("ReSharper", "MemberCanBePrivate.Global")]
 public readonly struct BasedTimestamp
 {
     public readonly Timestamp TimestampBefore;
